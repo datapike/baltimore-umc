@@ -36,7 +36,7 @@
 				<?php endif;
 				?>
 				<div class="site-info">
-					<a href="<?php echo esc_url( __( 'http://copyquality.com', 'baltimore-umc' ) ); ?>"><?php printf( __( 'Created by %s', 'baltimore-umc' ), 'Quality Business Solutions' ); ?></a>
+					Website designed by <a href="<?php echo esc_url( __( 'http://copyquality.com', 'baltimore-umc' ) ); ?>"><?php printf( __( '%s', 'baltimore-umc' ), 'Quality Business Solutions' ); ?></a>
 				</div><!-- .site-info -->
 			</div><!-- .wrap -->
 		</footer><!-- #colophon -->
