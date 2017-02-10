@@ -27,6 +27,11 @@
 		height: 55vh;
 	}
 	
+	.panel-content .wrap {
+		padding-top: 2em;
+		padding-bottom: 1em;
+	}
+	
 }
 
 #bigcalendar1 {
@@ -36,4 +41,15 @@
 .widget.spider_calendar #calendar_1 table{
 	width: 280px;
 	max-width: 100%;
+}
+
+.single-featured-image-header img {
+	/* display: block; */
+	/* margin: auto; */
+	height: 66vh;
+	object-fit: cover;
+}
+
+.page.page-one-column .entry-header {
+	margin-bottom: 5px;
 }
